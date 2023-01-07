@@ -38,7 +38,7 @@
     padding-top: 40px;
 }
 
-/* section-1 style */
+/* section-1 failures style */
 .failures {
     display: flex;
     align-items: center;
@@ -68,3 +68,50 @@
     font-size: 16px;
     color: #444343;
 }
+
+/* section-2 my plans style */
+.my-plans {
+    align-items: center;
+    margin: 0px 229px 124px 230px;
+}
+
+.plan-head {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 60px;
+}
+
+.plan-icon {
+    display: flex;
+    justify-content: space-around;
+}
+
+.icon-head {
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 16px;
+}
+
+.icon-desc {
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+    text-align: center;
+}
+.icon-img1{
+   margin-left: 75px;
+}
+.icon-img2{
+    margin-left: 27px;
+ }
+ .icon-img3{
+    margin-left: 45px;
+ }
+ .icon-img4{
+    margin-left: 30px;
+ }
